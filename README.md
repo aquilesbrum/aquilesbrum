@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Aquiles
 
-Sou professor, atuo em cursos Técnicos e FIC no eixo de Informação e Comunicação. Possuo experiência em suporte computacional, coordenação e liderança técnica, além de ter orientado cursos em outras instituições e empresas. Atualmente, estou cursando uma Especialização em Docência no Ensino Técnico e desenvolve conteúdos voltados para algoritmos, programação (C++, C#, Python com Django), banco de dados, arquitetura da informação e comunicação visual para web.
+Sou professor, atuo em cursos Técnicos e FIC no eixo de Informação e Comunicação. Oriento os cursos de Técnico em Informática e Técnico em Desenvolvimento de Sistemas. Desenvolvo conteúdos voltados para algoritmos, programação (C++, C#, Python com Django), banco de dados, arquitetura da informação e comunicação visual para web.
 
 🎯 Professor Desenvolvedor Web | 💡 Apaixonado por Tecnologia  
 🚀 Sempre aprendendo algo novo!
