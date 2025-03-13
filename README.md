@@ -19,4 +19,3 @@ Sou professor, atuo em cursos Técnicos e FIC no eixo de Informação e Comunica
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-![background](https://www.example.com/background.jpg)
