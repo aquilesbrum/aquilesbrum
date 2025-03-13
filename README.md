@@ -18,4 +18,6 @@ Sou professor, atuo em cursos Técnicos e FIC no eixo de Informação e Comunica
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Fundo Escuro](https://path_to_your_image.com/image.jpg)
+
 
